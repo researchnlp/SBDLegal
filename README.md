@@ -8,7 +8,7 @@ https://www.nltk.org/
 
 https://stanfordnlp.github.io/CoreNLP/
 
-https:// spacy. io/ api/ doc
+https://spacy.io/api/doc
 
 https://pypi.org/project/syntok/
 
