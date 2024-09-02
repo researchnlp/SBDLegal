@@ -1,6 +1,6 @@
 # SBDLegal
 
-## Associated data and baseline model from https://github.com/jsavelka/sbd_adjudicatory_dec
+ Data from https://github.com/jsavelka/sbd_adjudicatory_dec
 
 ## For Standard Toolkits Refer:
 
